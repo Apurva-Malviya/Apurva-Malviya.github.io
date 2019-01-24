@@ -1,0 +1,44 @@
+h1{
+    border-style:ridge;
+    border-width:medium;
+       padding:12px;}
+#v{
+    border-style:ridge;
+    border-width :medium;
+    padding:12px;
+
+}
+
+
+#a{
+    border-style:ridge;
+    border-width:medium;
+    padding:12px;
+    margin: 1px;
+    
+}
+
+#text1{ background-color:red;
+     border-style:ridge;
+     border-width:medium;
+     padding:12px;
+  
+}
+#text2{
+    border-style:ridge;
+    border-width:medium;
+    padding:12px;
+  
+}
+#text3{
+    border-style:ridge;
+    border-width:medium;
+    padding:12px;
+}
+#text4
+{
+    border-style:ridge;
+    border-width:medium;
+    padding:12px;
+  
+}
